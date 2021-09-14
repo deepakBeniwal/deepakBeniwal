@@ -1,6 +1,6 @@
 ### Hi I am Deepak  👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning NodeJS
