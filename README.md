@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently specializing in front-end development with 3.6 years of experience.
 - 👯 I’m looking to collaborate with other Frontend developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love Gaming.
 
 ### Connect with me:
